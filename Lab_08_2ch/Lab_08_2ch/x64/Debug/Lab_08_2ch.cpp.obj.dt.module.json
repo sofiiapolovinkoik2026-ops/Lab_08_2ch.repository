@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab_08_2ch\\x64\\Debug\\Lab_08_2ch.obj",
+            "outputs": [
+                "Lab_08_2ch\\x64\\Debug\\Lab_08_2ch.cpp.obj.dt.module.json",
+                "Lab_08_2ch\\x64\\Debug\\Lab_08_2ch.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
